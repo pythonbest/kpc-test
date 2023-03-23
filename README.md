@@ -3,7 +3,7 @@
 https://drive.google.com/file/d/1_q45QVtTHsNbNhzTHgxp6xk_w-dVwOCf/view?usp=sharing
 
 # 생산성본부 AWS EB 다운로드
-https://drive.google.com/file/d/1LD5ePa1a4M3ECf-AE0VvGvFv0ert4h3j/view?usp=sharing
+https://drive.google.com/file/d/1C71DOsIcVAZ_JU6nQCLuDFy5a1gFh6bZ/view?usp=sharing
 
 # Python Class 예제
 https://drive.google.com/file/d/1GThYD9fea8hVLQ08scInDdotIo3gTEtX/view?usp=sharing
