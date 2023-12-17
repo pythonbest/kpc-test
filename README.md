@@ -1,12 +1,11 @@
 # 생산성본부 Django 소스 다운로드
 
-https://drive.google.com/file/d/1BNFU3YAM6iEpioXCGzrArg9LZ2_1cY77/view?usp=sharing
+https://drive.google.com/file/d/1X3mM2I0Z0yWpi-QZCrjErDRbYqb4AoiX/view?usp=sharing
 <br /><br /><br />
 
-# 2023.07.18 소스
+# 2023.12 강의자료 pdf
 
-https://drive.google.com/file/d/14wb3TU_W4sF84yfwIYQ-QIvI5CPyBp36/view?usp=sharing
-
+https://drive.google.com/file/d/1rmJKUQWuY0H3luHpN1qhShTVu7J0BRE4/view?usp=sharing
 
 
 # OLD -----------------------------------------
@@ -15,17 +14,3 @@ https://drive.google.com/file/d/14wb3TU_W4sF84yfwIYQ-QIvI5CPyBp36/view?usp=shari
 
 https://drive.google.com/file/d/1Q9GGI865ZshIgyShM4n2BX99oSUMuGnc/view?usp=sharing
 
-# 생산성본부 AWS EB 다운로드
-https://drive.google.com/file/d/1C71DOsIcVAZ_JU6nQCLuDFy5a1gFh6bZ/view?usp=sharing
-
-# Python Class 예제
-https://drive.google.com/file/d/1GThYD9fea8hVLQ08scInDdotIo3gTEtX/view?usp=sharing
-
-
-# 2022 생산성본부
-
-https://drive.google.com/file/d/1YnGwj_fk407yxoIxrnuOlGHaoppZnStb/view?usp=sharing
-
-# KpcBlogFive 다운로드
-
-https://drive.google.com/file/d/1Ikxer-KEG1UK3NbN8VDPCX1ZeRSHnY3q/view?usp=sharing
