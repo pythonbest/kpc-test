@@ -3,16 +3,10 @@
 https://drive.google.com/file/d/1X3mM2I0Z0yWpi-QZCrjErDRbYqb4AoiX/view?usp=sharing
 <br /><br /><br />
 
-# 2023.12 강의자료 pdf
+# 2023.12 강의자료 pdf (New Again)
 
-https://drive.google.com/file/d/1rmJKUQWuY0H3luHpN1qhShTVu7J0BRE4/view?usp=sharing
+https://drive.google.com/file/d/1V9HOHcV8SDve-qIGCybzlM2ky7Quy3d2/view?usp=sharing
 <br /><br /><br />
-
-# 2023.12 강의자료 pdf (New)
-
-https://drive.google.com/file/d/1BCulOholTFN2uJvAA1Dn607HQIOCWumm/view?usp=sharing
-<br /><br /><br />
-
 
 # OLD -----------------------------------------
 
