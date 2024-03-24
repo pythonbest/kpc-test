@@ -1,11 +1,11 @@
 # 생산성본부 Django 소스 다운로드
 
-https://drive.google.com/file/d/1X3mM2I0Z0yWpi-QZCrjErDRbYqb4AoiX/view?usp=sharing
+https://drive.google.com/file/d/1jLV81r3sPSJp5nd3x3kQ8Xz9Cs0Gzz6N/view?usp=sharing
 <br /><br /><br />
 
-# 2023.12 강의자료 pdf (New Again)
+# 2024.03 강의자료 pdf
 
-https://drive.google.com/file/d/1V9HOHcV8SDve-qIGCybzlM2ky7Quy3d2/view?usp=sharing
+https://drive.google.com/file/d/1wa69Opl5UUyp3H6tRrQI7I5j7rc8Z4X5/view?usp=sharing
 <br /><br /><br />
 
 # OLD -----------------------------------------
