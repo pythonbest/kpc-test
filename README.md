@@ -8,6 +8,13 @@ https://drive.google.com/file/d/1hQ26J76VRxkRtxPbc4l0vhJGDNDaKml5/view?usp=shari
 https://drive.google.com/file/d/1GzgyuQ2CNv0RIDhwtUV8y_tTX_FiJO18/view?usp=sharing
 <br /><br /><br />
 
+
+# (추가) 2024.06 KpcChat04
+
+https://drive.google.com/file/d/1rsZpCHVPQ-7jrqSDc8GZ9PmdRH5faKzs/view?usp=sharing
+<br /><br /><br />
+
+
 # OLD -----------------------------------------
 
 # 생산성본부 Django 소스 다운로드
