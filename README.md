@@ -1,6 +1,6 @@
 # (수정) 2024.11 강의자료 pdf
 
-https://drive.google.com/file/d/1_tU3wwxcMd6wGrZ4GOHmeylT90m96-qZ/view?usp=sharing
+https://drive.google.com/file/d/1Hx52Z7QMhCnaU9J0C6Y2BJA3FG7-3jiB/view?usp=sharing
 <br /><br /><br />
 
 # (추가) 2024.11 KpcBlogFive
