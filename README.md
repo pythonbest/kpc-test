@@ -1,11 +1,11 @@
-# (수정) 2024.11 강의자료 pdf
+# 2024.12 RAG 강의자료 pdf
 
-https://drive.google.com/file/d/1Hx52Z7QMhCnaU9J0C6Y2BJA3FG7-3jiB/view?usp=sharing
+https://drive.google.com/file/d/185gjMLjQOyEvFq-EpTz5xsKVl6cqihdj/view?usp=sharing
 <br /><br /><br />
 
-# (추가) 2024.11 KpcBlogFive
+# 2024.12 RAG 소스 zip
 
-https://drive.google.com/file/d/1iORJPeZ1KCwsUS2KsqpTK4ERp8qe6mq_/view?usp=sharing
+https://drive.google.com/file/d/1eOmDelXBO5FRXvjmebP-yA8189UcjKaE/view?usp=sharing
 <br /><br /><br />
 
 
@@ -19,17 +19,4 @@ https://drive.google.com/file/d/1f3J8nZLDERd0_RpSLsbpvIKt3TwU6oIf/view?usp=shari
 # 2024.11 강의자료 pdf
 
 https://drive.google.com/file/d/1VzRgaygiZWGgTWqI2k2EZcOCzGru2PFz/view?usp=sharing
-<br /><br /><br />
-
-
-# OLD -----------------------------------------
-
-# 생산성본부 ChatGPT 소스 다운로드
-
-https://drive.google.com/file/d/1TI2mF8BYd4VkxMT0-dJzNz1p8OGjqY9A/view?usp=sharing
-<br /><br /><br />
-
-# (추가) 2024.00 KpcChat04
-
-https://drive.google.com/file/d/17B-FtAVP3eQ5DwQGuYs6NJY1FV4UPmaB/view?usp=sharing
 <br /><br /><br />
