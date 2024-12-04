@@ -1,3 +1,9 @@
+# 2024.12 RAG 데이터 zip
+
+https://drive.google.com/file/d/1xQbfVCD4iI9dsgkwGpsWg8kTIkJJxJn5/view?usp=sharing
+<br /><br /><br />
+
+
 # 2024.12 RAG 강의자료 pdf
 
 https://drive.google.com/file/d/185gjMLjQOyEvFq-EpTz5xsKVl6cqihdj/view?usp=sharing
