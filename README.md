@@ -1,3 +1,8 @@
+# 2024.12 RAG5 소스 zip
+
+https://drive.google.com/file/d/1uBIjlo0BPtrXLLKWtPIvUOVC-QsiiR5k/view?usp=sharing
+<br /><br /><br />
+
 # 2024.12 RAG 데이터 zip
 
 https://drive.google.com/file/d/1xQbfVCD4iI9dsgkwGpsWg8kTIkJJxJn5/view?usp=sharing
