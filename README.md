@@ -1,14 +1,10 @@
-# 2025.05 Django AI 프롬프트 txt
+# 2025.06 ChatGPT 소스 zip
 
-https://drive.google.com/file/d/1gV7X-a_OVf5Da8rX4yK1Cj2u3qQ-QLXp/view?usp=sharing
+https://drive.google.com/file/d/11aATT9MBSXM3s8xAvhEnQ1_EwRSWnWj9/view?usp=sharing
 <br /><br /><br />
 
-# 2025.05 Django 소스 zip
 
-https://drive.google.com/file/d/1jtTDr2XG6yLleuZKehOnPIfxzk8dSS4v/view?usp=sharing
-<br /><br /><br />
+# 2025.06 ChatGPT 강의자료 pdf
 
-# 2025.05 Django 강의자료 pdf
-
-https://drive.google.com/file/d/1s9seauoMkkDbkIHY0h88sZRpPXwQZo8R/view?usp=sharing
+https://drive.google.com/file/d/1TUP-WhmmAdhKYfmBR00srcvKt-47SDUN/view?usp=sharing
 <br /><br /><br />
