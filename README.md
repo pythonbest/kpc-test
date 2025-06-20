@@ -1,6 +1,6 @@
 # 2025.06 ChatGPT 추가 소스 zip (KpcChat04)
 
-https://drive.google.com/file/d/1s9seauoMkkDbkIHY0h88sZRpPXwQZo8R/view?usp=sharing
+https://drive.google.com/file/d/1iNS-2_r7B6edjsBaeq2PPHwfxYrA_1ll/view?usp=sharing
 <br /><br /><br />
 
 
