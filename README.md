@@ -1,16 +1,10 @@
-# 2025.06 ChatGPT 추가 소스 zip (KpcChat04)
+# 2025.07 RAG 소스 zip
 
-https://drive.google.com/file/d/1iNS-2_r7B6edjsBaeq2PPHwfxYrA_1ll/view?usp=sharing
+https://drive.google.com/file/d/1hiY8CJCre8XLnOlOjw2hSY9FwNDb5VP0/view?usp=sharing
 <br /><br /><br />
 
 
-# 2025.06 ChatGPT 소스 zip
+# 2025.07 RAG 강의자료 pdf
 
-https://drive.google.com/file/d/11aATT9MBSXM3s8xAvhEnQ1_EwRSWnWj9/view?usp=sharing
-<br /><br /><br />
-
-
-# 2025.06 ChatGPT 강의자료 pdf
-
-https://drive.google.com/file/d/1TUP-WhmmAdhKYfmBR00srcvKt-47SDUN/view?usp=sharing
+https://drive.google.com/file/d/1Diy4XWi3emvQr_1oAoWabJyjr-qFWwzN/view?usp=sharing
 <br /><br /><br />
